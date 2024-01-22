@@ -1,0 +1,42 @@
+legend{
+    font-family: Arial;
+    text-align: center;
+    font-size: 20px;
+    color: aqua;
+
+}
+
+form{
+    background-color: #696967;
+    margin: auto;
+    width: 50%;
+    border-radius: 10px;
+    padding-left: 30px;
+}
+label{
+
+    width: 40%;
+    display: inline-block;
+}
+input[type=text],[type=email],[type=password],[type=date]{
+
+    height: 30px;
+    width: 50%;
+    border-radius: 30px;
+    margin-left: 20px;
+}
+button{
+    background-color: aqua;
+     border-radius: 30px;
+    margin-left: 20px;
+        height: 30px;
+    width: 10%;
+    text-align: center;
+    margin: auto;
+
+
+
+}
+button:hover{
+    background-color: yellow;
+}
