@@ -1,0 +1,40 @@
+#t1,th,td{
+
+      width: 40%;
+      margin: auto;
+ border: 2px solid greenyellow;
+      border-collapse: collapse;
+
+}
+
+#t2,th,td{
+      width: 40%;
+      margin: auto;
+      border-collapse: collapse;
+      border: 2px solid blue;
+
+
+
+    }
+.navbar{
+
+      position: fixed;
+      background-color: aqua;
+      width: 100%;
+      padding-left: 10px;
+      height: 40px;
+      overflow: hidden;
+    top: 0px;
+
+
+
+}
+#img1{
+
+    border-radius: 1000px;
+    round-clip: true;
+
+
+
+}
+
